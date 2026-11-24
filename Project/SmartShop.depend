@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1793969873 source:d:\pf_project\smartshop\main.c
+	"raylib.h"
+	<stdio.h>
+	<stdbool.h>
+
+1793955877 c:\users\haroon traders\downloads\raylib-dev\raylib-6.2_win64_mingw-w64\include\raylib.h
+	<stdarg.h>
+	<stdbool.h>
+
+1795502069 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\product.c
+	"product.h"
+	<stdio.h>
+	<string.h>
+
+1795505945 c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\product.h
+	<stdbool.h>
+
+1795493496 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\main.c
+	"smartshop.h"
+	"product.h"
+	"billing.h"
+
+1795493993 c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\smartshop.h
+	"raylib.h"
+	<stdbool.h>
+
+1795502743 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\screen_billing.c
+	"smartshop.h"
+	"product.h"
+	"billing.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1795502200 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\screen_dashboard.c
+	"smartshop.h"
+	"product.h"
+	"billing.h"
+
+1795502620 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\screen_products.c
+	"smartshop.h"
+	"product.h"
+	<stdlib.h>
+
+1795494088 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\screen_sales.c
+	"smartshop.h"
+	"product.h"
+	"billing.h"
+	"report.h"
+	<stdio.h>
+
+1795494379 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\ui.c
+	"smartshop.h"
+	<stdio.h>
+	<string.h>
+
+1795505467 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\billing.c
+	"billing.h"
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+
+1795497317 c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\billing.h
+	<stdbool.h>
+	"product.h"
+
+1795495032 source:c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\report.c
+	"report.h"
+	"billing.h"
+	"product.h"
+	<stdio.h>
+	<string.h>
+	<time.h>
+
+1795494961 c:\users\haroon traders\desktop\pf theory assignment anas\2 assignment\pf_project\smartshop\report.h
+	<stdbool.h>
+
