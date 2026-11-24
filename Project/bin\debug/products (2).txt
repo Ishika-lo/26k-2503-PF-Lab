@@ -1,0 +1,11 @@
+101,Rice 1 kg,280.00,37
+102,Cocomo,10.00,21
+103,Chicken,799.00,13
+104,Protein Powder,20000.00,49
+105,Cheese 2 kg,4750.00,21
+106,Egg Dozen,250.00,36
+107,Milk 1 l,220.00,14
+109,Peanut Butter 560 g,2400.00,5
+110,Surf Excel 1 kg,620.00,9
+111,Eua Oil 5 l,3200.00,14
+202,lays,70.00,30

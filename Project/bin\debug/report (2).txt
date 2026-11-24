@@ -1,0 +1,10 @@
+SmartShop - Sales Report
+Generated: 2026-11-16 09:46
+------------------------------
+Number of bills     : 7
+Items sold          : 44
+Total sales         : 24644.00
+Average bill        : 3520.57
+Highest bill        : 7990.00
+VIP customers       : 2
+Low-stock products  : 2
